@@ -1,0 +1,96 @@
+@import "rsuite/dist/rsuite.css";
+/* #root{ padding: 10px; } */
+.DateTime {
+  padding: 10px 10px;
+}
+.body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.header {
+  height: 200px;
+  width: 100%;
+  background-color: #b1e1ff;
+  /* background: #FF7F3F; */
+  /* background: #9ED2C6; */
+  padding-top: 50px;
+}
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: #100c24;
+  /* background: #FF7F3F; */
+  /* background: #9ED2C6; */
+  /* padding-top; */
+}
+
+.card-container {
+  height: 300px;
+  width: 300px;
+  box-shadow: 0px 3px 50px #a5a5a5;
+}
+
+.card-wrapper {
+  width: 280px;
+  height: 220px;
+  box-shadow: 0px 3px 50px #a5a5a5;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-top {
+  width: 100%;
+  height: 2%;
+}
+
+.task-holder {
+  width: 100%;
+  height: 98%;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.card-header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 240px;
+  height: 25px;
+  text-align: center;
+}
+
+.task-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f6f7f8;
+  justify-content: center;
+  padding: 40px 100px;
+}
+.youtube {
+  /* align-items: center; */
+  font-family: sans-serif;
+  text-align: center;
+  color: #100c24;
+  font-family: "Arapey", serif;
+  font-size: 15px;
+}
+.fonty {
+  /* font-family: 'Combo', cursive; */
+  /* font-family: 'Pathway Gothic One', sans-serif; */
+  font-family: "Arapey", serif;
+}
+.active {
+  font-weight: bold;
+}
