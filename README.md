@@ -49,7 +49,8 @@ Provides information of the developer and Social Meadia Handles
 # Footer
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91959504/189544062-b209ed46-bade-4981-909e-2467634836a2.png">
 
-
+# Links for Preview1 :https://ep8i9b-3000.preview.csb.app/
+# Links for Preview2 :https://olpd0y.csb.app/
 
 
 
